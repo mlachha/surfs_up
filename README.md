@@ -49,3 +49,5 @@ you can see the stats in the tables below:
 ![picture](analysis/fig3.png)![picture](analysis/fig4.png)
 
 By looking at our analysis result, we can clearly see that there is little amount of precipitation on a normal day, but we still have days with excessive rainfall. This goes to show that the surf shop will be able operate most of the days while a few heavy rain days will help keep the island ecosystem flourishing and inviting to people wanting to visit the surf shop.
+
+- Refer to "SurfsUp_Challenge.ipynb" for the Code for the additional analysis.
